@@ -1,4 +1,5 @@
 # Xray-hexin
+基本修复成功
 A V2board node server based on Xray-Core.
 
 一个基于Xray的V2board节点服务端，支持V2ay,Trojan,Shadowsocks协议
